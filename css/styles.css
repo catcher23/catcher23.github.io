@@ -132,7 +132,7 @@ section {
 
 @media (min-width:768px) {
     .v-center {
-        height: 100%;
+        height: 90%;
         overflow: visible;
         margin: auto;
         position: absolute;
