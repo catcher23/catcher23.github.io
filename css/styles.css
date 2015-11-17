@@ -199,3 +199,8 @@ footer .nav>li>a:hover {
     background-color:transparent;
 	color:#fff;
 }
+
+.medium {
+	height:300px;
+	width:300px
+}
