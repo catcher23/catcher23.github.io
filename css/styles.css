@@ -202,5 +202,15 @@ footer .nav>li>a:hover {
 
 .medium {
 	height:300px;
+	width:300px;
+	text-align: center
+}
+.medium-long {
+	height:250px;
 	width:300px
+	text-align: center
+}
+.prof-pic {
+	height:312px;
+	width:280px
 }
