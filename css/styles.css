@@ -199,15 +199,17 @@ footer .nav>li>a:hover {
     background-color:transparent;
 	color:#fff;
 }
-
+.big {
+	font-size:12
+}
 .medium {
 	height:300px;
 	width:300px;
 	text-align: center
 }
 .medium-long {
-	height:250px;
-	width:300px
+	height:200px;
+	width: 250px;
 	text-align: center
 }
 .prof-pic {
